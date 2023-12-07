@@ -1,0 +1,497 @@
+,feature,rmse
+0,Gamma(gapi)__variance_larger_than_standard_deviation,117.5364395034618
+1,Gamma(gapi)__has_duplicate_max,118.49289981343888
+2,Gamma(gapi)__has_duplicate_min,118.48693582453988
+3,Gamma(gapi)__has_duplicate,118.48693582453988
+4,Gamma(gapi)__sum_values,6926.598520799424
+5,Gamma(gapi)__abs_energy,918788.0506414059
+6,Gamma(gapi)__mean_abs_change,116.38230247460388
+7,Gamma(gapi)__mean_change,118.50203328686372
+8,Gamma(gapi)__mean_second_derivative_central,118.49392780966816
+9,Gamma(gapi)__median,19.515622690323276
+10,Gamma(gapi)__mean,19.920015222747907
+11,Gamma(gapi)__length,62.19582010801003
+12,Gamma(gapi)__standard_deviation,107.35953075653664
+13,Gamma(gapi)__variation_coefficient,118.40055722101857
+14,Gamma(gapi)__skewness,118.52560834617996
+15,Gamma(gapi)__kurtosis,118.90769352697374
+16,Gamma(gapi)__root_mean_square,19.63860170831557
+17,Gamma(gapi)__absolute_sum_of_changes,35.70867144401392
+18,Gamma(gapi)__longest_strike_below_mean,99.34868727526084
+19,Gamma(gapi)__longest_strike_above_mean,99.38203414645726
+20,Gamma(gapi)__count_above_mean,89.87627835029232
+21,Gamma(gapi)__count_below_mean,89.68873830562312
+22,Gamma(gapi)__last_location_of_maximum,118.01926781702493
+23,Gamma(gapi)__first_location_of_maximum,118.03664242737976
+24,Gamma(gapi)__last_location_of_minimum,118.02317043787504
+25,Gamma(gapi)__first_location_of_minimum,118.04109528139207
+26,Gamma(gapi)__percentage_of_reoccurring_values_to_all_values,118.48681811135313
+27,Gamma(gapi)__percentage_of_reoccurring_datapoints_to_all_datapoints,118.48712659433215
+28,Gamma(gapi)__sum_of_reoccurring_values,118.04401686530258
+29,Gamma(gapi)__sum_of_reoccurring_data_points,611.5082681760987
+30,Gamma(gapi)__ratio_value_number_to_time_series_length,117.5420559940481
+31,Gamma(gapi)__sample_entropy,117.58481633011127
+32,Gamma(gapi)__maximum,28.064733098049253
+33,Gamma(gapi)__absolute_maximum,28.064733098049253
+34,Gamma(gapi)__minimum,31.85792707277722
+35,Gamma(gapi)__benford_correlation,117.86374526384171
+36,Gamma(gapi)__time_reversal_asymmetry_statistic__lag_1,28119.840756392205
+37,Gamma(gapi)__time_reversal_asymmetry_statistic__lag_2,55421.39330803539
+38,Gamma(gapi)__time_reversal_asymmetry_statistic__lag_3,83053.11450783326
+39,Gamma(gapi)__c3__lag_1,2193129.5405243016
+40,Gamma(gapi)__c3__lag_2,2194133.8617573483
+41,Gamma(gapi)__c3__lag_3,2194602.33623228
+42,Gamma(gapi)__cid_ce__normalize_True,115.8809107350237
+43,Gamma(gapi)__cid_ce__normalize_False,98.3194214900305
+44,Gamma(gapi)__symmetry_looking__r_0.0,118.49882441008222
+45,Gamma(gapi)__symmetry_looking__r_0.05,117.82778253324224
+46,Gamma(gapi)__symmetry_looking__r_0.1,117.64797664104664
+47,Gamma(gapi)__symmetry_looking__r_0.15000000000000002,117.59413997823681
+48,Gamma(gapi)__symmetry_looking__r_0.2,117.5364395034618
+49,Gamma(gapi)__symmetry_looking__r_0.25,117.5364395034618
+50,Gamma(gapi)__symmetry_looking__r_0.30000000000000004,117.5364395034618
+51,Gamma(gapi)__symmetry_looking__r_0.35000000000000003,117.5364395034618
+52,Gamma(gapi)__symmetry_looking__r_0.4,117.5364395034618
+53,Gamma(gapi)__symmetry_looking__r_0.45,117.5364395034618
+54,Gamma(gapi)__symmetry_looking__r_0.5,117.5364395034618
+55,Gamma(gapi)__symmetry_looking__r_0.55,117.5364395034618
+56,Gamma(gapi)__symmetry_looking__r_0.6000000000000001,117.5364395034618
+57,Gamma(gapi)__symmetry_looking__r_0.65,117.5364395034618
+58,Gamma(gapi)__symmetry_looking__r_0.7000000000000001,117.5364395034618
+59,Gamma(gapi)__symmetry_looking__r_0.75,117.5364395034618
+60,Gamma(gapi)__symmetry_looking__r_0.8,117.5364395034618
+61,Gamma(gapi)__symmetry_looking__r_0.8500000000000001,117.5364395034618
+62,Gamma(gapi)__symmetry_looking__r_0.9,117.5364395034618
+63,Gamma(gapi)__symmetry_looking__r_0.9500000000000001,117.5364395034618
+64,Gamma(gapi)__large_standard_deviation__r_0.05,117.5364395034618
+65,Gamma(gapi)__large_standard_deviation__r_0.1,117.5364395034618
+66,Gamma(gapi)__large_standard_deviation__r_0.15000000000000002,117.54245171962329
+67,Gamma(gapi)__large_standard_deviation__r_0.2,117.57932396459725
+68,Gamma(gapi)__large_standard_deviation__r_0.25,117.940042365153
+69,Gamma(gapi)__large_standard_deviation__r_0.30000000000000004,118.27940039785807
+70,Gamma(gapi)__large_standard_deviation__r_0.35000000000000003,118.4462369993318
+71,Gamma(gapi)__large_standard_deviation__r_0.4,118.49882441008222
+72,Gamma(gapi)__large_standard_deviation__r_0.45,118.49882441008222
+73,Gamma(gapi)__large_standard_deviation__r_0.5,118.49882441008222
+74,Gamma(gapi)__large_standard_deviation__r_0.55,118.49882441008222
+75,Gamma(gapi)__large_standard_deviation__r_0.6000000000000001,118.49882441008222
+76,Gamma(gapi)__large_standard_deviation__r_0.65,118.49882441008222
+77,Gamma(gapi)__large_standard_deviation__r_0.7000000000000001,118.49882441008222
+78,Gamma(gapi)__large_standard_deviation__r_0.75,118.49882441008222
+79,Gamma(gapi)__large_standard_deviation__r_0.8,118.49882441008222
+80,Gamma(gapi)__large_standard_deviation__r_0.8500000000000001,118.49882441008222
+81,Gamma(gapi)__large_standard_deviation__r_0.9,118.49882441008222
+82,Gamma(gapi)__large_standard_deviation__r_0.9500000000000001,118.49882441008222
+83,Gamma(gapi)__quantile__q_0.1,28.372471029896143
+84,Gamma(gapi)__quantile__q_0.2,25.072375371397627
+85,Gamma(gapi)__quantile__q_0.3,22.621749007342903
+86,Gamma(gapi)__quantile__q_0.4,21.154547759456054
+87,Gamma(gapi)__quantile__q_0.6,19.25977662589235
+88,Gamma(gapi)__quantile__q_0.7,19.856873247648533
+89,Gamma(gapi)__quantile__q_0.8,21.63814511208119
+90,Gamma(gapi)__quantile__q_0.9,24.024806699339596
+91,Gamma(gapi)__autocorrelation__lag_0,117.53046753347883
+92,Gamma(gapi)__autocorrelation__lag_1,117.62627551296407
+93,Gamma(gapi)__autocorrelation__lag_2,117.79381911560658
+94,Gamma(gapi)__autocorrelation__lag_3,117.93841565557832
+95,Gamma(gapi)__autocorrelation__lag_4,118.01332677079513
+96,Gamma(gapi)__autocorrelation__lag_5,118.05531278847288
+97,Gamma(gapi)__autocorrelation__lag_6,118.0935842359219
+98,Gamma(gapi)__autocorrelation__lag_7,118.13139864272043
+99,Gamma(gapi)__autocorrelation__lag_8,118.1672265732519
+100,Gamma(gapi)__autocorrelation__lag_9,118.20587580233153
+101,"Gamma(gapi)__agg_autocorrelation__f_agg_""mean""__maxlag_40",118.55159806893107
+102,"Gamma(gapi)__agg_autocorrelation__f_agg_""median""__maxlag_40",118.56068699979942
+103,"Gamma(gapi)__agg_autocorrelation__f_agg_""var""__maxlag_40",118.24997107849468
+104,Gamma(gapi)__partial_autocorrelation__lag_0,117.53046639394019
+105,Gamma(gapi)__partial_autocorrelation__lag_1,117.62627622542884
+106,Gamma(gapi)__partial_autocorrelation__lag_2,118.94833907402996
+107,Gamma(gapi)__partial_autocorrelation__lag_3,118.51865438355051
+108,Gamma(gapi)__partial_autocorrelation__lag_4,118.24563905575228
+109,Gamma(gapi)__partial_autocorrelation__lag_5,118.42468236039045
+110,Gamma(gapi)__partial_autocorrelation__lag_7,118.46364750786293
+111,Gamma(gapi)__partial_autocorrelation__lag_8,121.96888914409793
+112,Gamma(gapi)__partial_autocorrelation__lag_9,119.03669561259262
+113,Gamma(gapi)__number_cwt_peaks__n_1,109.74056076513111
+114,Gamma(gapi)__number_cwt_peaks__n_5,111.69540667492664
+115,Gamma(gapi)__number_peaks__n_1,109.96833173478186
+116,Gamma(gapi)__number_peaks__n_3,113.0309700196473
+117,Gamma(gapi)__number_peaks__n_5,115.37257035409186
+118,Gamma(gapi)__number_peaks__n_10,117.20870801856047
+119,Gamma(gapi)__number_peaks__n_50,118.49882441008222
+120,Gamma(gapi)__binned_entropy__max_bins_10,116.48613504956317
+121,Gamma(gapi)__index_mass_quantile__q_0.1,118.3907775011718
+122,Gamma(gapi)__index_mass_quantile__q_0.2,118.29343768196402
+123,Gamma(gapi)__index_mass_quantile__q_0.3,118.19741895942
+124,Gamma(gapi)__index_mass_quantile__q_0.4,118.10312955773222
+125,Gamma(gapi)__index_mass_quantile__q_0.6,117.91541449595647
+126,Gamma(gapi)__index_mass_quantile__q_0.7,117.81926864369517
+127,Gamma(gapi)__index_mass_quantile__q_0.8,117.72172341204374
+128,Gamma(gapi)__index_mass_quantile__q_0.9,117.622904476361
+129,"Gamma(gapi)__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)",118.23573651644412
+130,"Gamma(gapi)__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)",119.52488100969964
+131,"Gamma(gapi)__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)",111.7938922524159
+132,"Gamma(gapi)__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)",109.59415158455066
+133,"Gamma(gapi)__cwt_coefficients__coeff_1__w_2__widths_(2, 5, 10, 20)",57.21181741053018
+134,"Gamma(gapi)__cwt_coefficients__coeff_1__w_5__widths_(2, 5, 10, 20)",77.82785790842352
+135,"Gamma(gapi)__cwt_coefficients__coeff_1__w_10__widths_(2, 5, 10, 20)",82.6675936442795
+136,"Gamma(gapi)__cwt_coefficients__coeff_1__w_20__widths_(2, 5, 10, 20)",131.78247797800913
+137,"Gamma(gapi)__cwt_coefficients__coeff_2__w_2__widths_(2, 5, 10, 20)",38.67237704265154
+138,"Gamma(gapi)__cwt_coefficients__coeff_2__w_5__widths_(2, 5, 10, 20)",44.98599378039358
+139,"Gamma(gapi)__cwt_coefficients__coeff_2__w_10__widths_(2, 5, 10, 20)",56.5651924047216
+140,"Gamma(gapi)__cwt_coefficients__coeff_2__w_20__widths_(2, 5, 10, 20)",154.01648782549503
+141,"Gamma(gapi)__cwt_coefficients__coeff_3__w_2__widths_(2, 5, 10, 20)",53.834564516649564
+142,"Gamma(gapi)__cwt_coefficients__coeff_3__w_5__widths_(2, 5, 10, 20)",31.13843686856425
+143,"Gamma(gapi)__cwt_coefficients__coeff_3__w_10__widths_(2, 5, 10, 20)",38.92516610974381
+144,"Gamma(gapi)__cwt_coefficients__coeff_3__w_20__widths_(2, 5, 10, 20)",176.0308599460532
+145,"Gamma(gapi)__cwt_coefficients__coeff_4__w_2__widths_(2, 5, 10, 20)",82.84479075580771
+146,"Gamma(gapi)__cwt_coefficients__coeff_4__w_5__widths_(2, 5, 10, 20)",34.35316124501423
+147,"Gamma(gapi)__cwt_coefficients__coeff_4__w_10__widths_(2, 5, 10, 20)",38.355282847941965
+148,"Gamma(gapi)__cwt_coefficients__coeff_4__w_20__widths_(2, 5, 10, 20)",197.6146901295989
+149,"Gamma(gapi)__cwt_coefficients__coeff_5__w_2__widths_(2, 5, 10, 20)",104.56045557841013
+150,"Gamma(gapi)__cwt_coefficients__coeff_5__w_5__widths_(2, 5, 10, 20)",37.07528065045483
+151,"Gamma(gapi)__cwt_coefficients__coeff_5__w_10__widths_(2, 5, 10, 20)",51.08761304604944
+152,"Gamma(gapi)__cwt_coefficients__coeff_5__w_20__widths_(2, 5, 10, 20)",218.58788707130674
+153,"Gamma(gapi)__cwt_coefficients__coeff_6__w_2__widths_(2, 5, 10, 20)",114.460947064482
+154,"Gamma(gapi)__cwt_coefficients__coeff_6__w_5__widths_(2, 5, 10, 20)",34.210617292188026
+155,"Gamma(gapi)__cwt_coefficients__coeff_6__w_10__widths_(2, 5, 10, 20)",66.46422412891562
+156,"Gamma(gapi)__cwt_coefficients__coeff_6__w_20__widths_(2, 5, 10, 20)",238.8162093321528
+157,"Gamma(gapi)__cwt_coefficients__coeff_7__w_2__widths_(2, 5, 10, 20)",117.78070684811625
+158,"Gamma(gapi)__cwt_coefficients__coeff_7__w_5__widths_(2, 5, 10, 20)",29.99408679888721
+159,"Gamma(gapi)__cwt_coefficients__coeff_7__w_10__widths_(2, 5, 10, 20)",79.97178338008148
+160,"Gamma(gapi)__cwt_coefficients__coeff_7__w_20__widths_(2, 5, 10, 20)",258.1331396160256
+161,"Gamma(gapi)__cwt_coefficients__coeff_8__w_2__widths_(2, 5, 10, 20)",118.6768301650314
+162,"Gamma(gapi)__cwt_coefficients__coeff_8__w_5__widths_(2, 5, 10, 20)",33.15786301430105
+163,"Gamma(gapi)__cwt_coefficients__coeff_8__w_10__widths_(2, 5, 10, 20)",90.11591500877852
+164,"Gamma(gapi)__cwt_coefficients__coeff_8__w_20__widths_(2, 5, 10, 20)",276.37712671351187
+165,"Gamma(gapi)__cwt_coefficients__coeff_9__w_2__widths_(2, 5, 10, 20)",118.85187879038308
+166,"Gamma(gapi)__cwt_coefficients__coeff_9__w_5__widths_(2, 5, 10, 20)",45.6066008018205
+167,"Gamma(gapi)__cwt_coefficients__coeff_9__w_10__widths_(2, 5, 10, 20)",96.3837184304261
+168,"Gamma(gapi)__cwt_coefficients__coeff_9__w_20__widths_(2, 5, 10, 20)",293.42329401275845
+169,"Gamma(gapi)__cwt_coefficients__coeff_10__w_2__widths_(2, 5, 10, 20)",118.61390795726545
+170,"Gamma(gapi)__cwt_coefficients__coeff_10__w_5__widths_(2, 5, 10, 20)",61.42631236504705
+171,"Gamma(gapi)__cwt_coefficients__coeff_10__w_10__widths_(2, 5, 10, 20)",98.71810909155272
+172,"Gamma(gapi)__cwt_coefficients__coeff_10__w_20__widths_(2, 5, 10, 20)",309.18696770742423
+173,"Gamma(gapi)__cwt_coefficients__coeff_11__w_2__widths_(2, 5, 10, 20)",118.11463574116469
+174,"Gamma(gapi)__cwt_coefficients__coeff_11__w_5__widths_(2, 5, 10, 20)",76.37910425982261
+175,"Gamma(gapi)__cwt_coefficients__coeff_11__w_10__widths_(2, 5, 10, 20)",97.32873025379948
+176,"Gamma(gapi)__cwt_coefficients__coeff_11__w_20__widths_(2, 5, 10, 20)",323.5573990192312
+177,"Gamma(gapi)__cwt_coefficients__coeff_12__w_2__widths_(2, 5, 10, 20)",117.77614470367546
+178,"Gamma(gapi)__cwt_coefficients__coeff_12__w_5__widths_(2, 5, 10, 20)",88.91897415837452
+179,"Gamma(gapi)__cwt_coefficients__coeff_12__w_10__widths_(2, 5, 10, 20)",92.63069380162933
+180,"Gamma(gapi)__cwt_coefficients__coeff_12__w_20__widths_(2, 5, 10, 20)",336.4570567006301
+181,"Gamma(gapi)__cwt_coefficients__coeff_13__w_2__widths_(2, 5, 10, 20)",117.8573025836009
+182,"Gamma(gapi)__cwt_coefficients__coeff_13__w_5__widths_(2, 5, 10, 20)",98.69346627330452
+183,"Gamma(gapi)__cwt_coefficients__coeff_13__w_10__widths_(2, 5, 10, 20)",85.20669773731989
+184,"Gamma(gapi)__cwt_coefficients__coeff_13__w_20__widths_(2, 5, 10, 20)",347.86640451935136
+185,"Gamma(gapi)__cwt_coefficients__coeff_14__w_2__widths_(2, 5, 10, 20)",118.36435964900801
+186,"Gamma(gapi)__cwt_coefficients__coeff_14__w_5__widths_(2, 5, 10, 20)",105.82338349091214
+187,"Gamma(gapi)__cwt_coefficients__coeff_14__w_10__widths_(2, 5, 10, 20)",75.76887329392754
+188,"Gamma(gapi)__cwt_coefficients__coeff_14__w_20__widths_(2, 5, 10, 20)",357.760723179939
+189,Gamma(gapi)__spkt_welch_density__coeff_5,79.84897154877594
+190,Gamma(gapi)__spkt_welch_density__coeff_8,69.56572901805156
+191,Gamma(gapi)__ar_coefficient__coeff_0__k_10,109.72578736185079
+192,Gamma(gapi)__ar_coefficient__coeff_1__k_10,116.81344073327959
+193,Gamma(gapi)__ar_coefficient__coeff_2__k_10,119.58205076968305
+194,Gamma(gapi)__ar_coefficient__coeff_3__k_10,118.6203562776784
+195,Gamma(gapi)__ar_coefficient__coeff_4__k_10,117.6743624287884
+196,Gamma(gapi)__ar_coefficient__coeff_5__k_10,119.02489046543432
+197,Gamma(gapi)__ar_coefficient__coeff_6__k_10,118.6638695404967
+198,Gamma(gapi)__ar_coefficient__coeff_7__k_10,117.9848929382249
+199,Gamma(gapi)__ar_coefficient__coeff_8__k_10,118.84983553037632
+200,Gamma(gapi)__ar_coefficient__coeff_9__k_10,118.44031638685394
+201,Gamma(gapi)__ar_coefficient__coeff_10__k_10,118.4587848140703
+202,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_0.2__ql_0.0",118.45997014435457
+203,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_0.2__ql_0.0",113.57096787388986
+204,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_0.2__ql_0.0",116.67016867611174
+205,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_0.2__ql_0.0",116.77336954850021
+206,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.0",118.48924054605986
+207,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.0",112.48891308397924
+208,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.0",116.55186079438411
+209,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.0",116.28355530245405
+210,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.0",118.50519201948565
+211,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.0",111.95278336596567
+212,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.0",116.47887030003884
+213,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.0",116.01972815778134
+214,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.0",118.54338659009444
+215,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.0",111.46229144158085
+216,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.0",116.41399409046856
+217,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.0",115.83401934910773
+218,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.0",118.50203393533808
+219,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.0",111.26477440975881
+220,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.0",116.38230247460388
+221,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.0",115.77474517908789
+222,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.2",118.4359394121716
+223,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.2",114.64592271970213
+224,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.2",116.98129378337697
+225,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.2",117.08989190019321
+226,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.2",118.54066513470254
+227,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.2",112.73479897070524
+228,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.2",116.63621050788952
+229,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.2",116.2934270059865
+230,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.2",118.58059368625833
+231,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.2",111.85144957888211
+232,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.2",116.48994660065766
+233,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.2",115.951257390424
+234,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.2",118.51102079306483
+235,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.2",111.48039018159764
+236,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.2",116.42446168560994
+237,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.2",115.84444448709604
+238,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.4",118.44727636413344
+239,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.4",114.48573246565468
+240,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.4",116.94484708698035
+241,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.4",116.6980305225783
+242,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.4",118.57660467499439
+243,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.4",112.62505812564568
+244,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.4",116.62228650649527
+245,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.4",116.21570015406391
+246,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.4",118.49719330562682
+247,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.4",111.78121786916434
+248,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.4",116.46949274514482
+249,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.4",115.92627062519598
+250,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.6",118.63971648849062
+251,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.6",115.10871446408066
+252,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.6",117.02646535982922
+253,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.6",117.22195706376694
+254,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.6",118.53587542393251
+255,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.6",112.5425464645677
+256,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.6",116.58300807833574
+257,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.6",116.32113207404242
+258,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.8",118.4052721845471
+259,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.8",113.29537772564456
+260,"Gamma(gapi)__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.8",116.6931485324338
+261,"Gamma(gapi)__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.8",116.73508863384201
+262,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_0",6926.598540925251
+263,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_3",117.26493050757534
+264,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_4",123.90763212901194
+265,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_5",114.81566831987116
+266,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_6",115.85374084668341
+267,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_7",114.69651155846499
+268,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_8",122.4839796376026
+269,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_9",119.8927839615148
+270,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_10",116.84690601114983
+271,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_11",120.34787931340705
+272,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_12",119.334692706482
+273,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_13",118.6173079692088
+274,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_14",118.78496667440133
+275,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_15",119.5797237523926
+276,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_16",118.43403318839262
+277,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_17",119.3104715528252
+278,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_18",118.62156427697099
+279,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_19",118.7574179741098
+280,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_20",118.79812704306322
+281,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_21",118.97779752070664
+282,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_22",118.76476676123976
+283,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_23",118.97064188688543
+284,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_24",118.91339110519205
+285,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_25",118.80909616355564
+286,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_26",118.40093529060769
+287,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_27",118.99424791594713
+288,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_28",118.51752877604079
+289,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_29",119.16544421339215
+290,"Gamma(gapi)__fft_coefficient__attr_""real""__coeff_30",118.4583865318202
+291,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_0",118.49882441008222
+292,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_2",154.53297298033047
+293,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_3",133.66166402479237
+294,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_4",125.17655800412261
+295,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_5",125.5320996478369
+296,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_6",122.44356651307496
+297,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_7",117.53664806421227
+298,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_8",116.52298389577845
+299,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_9",116.91359192946727
+300,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_10",121.38528792174873
+301,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_11",120.6174028608581
+302,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_12",118.09919711531622
+303,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_13",121.99143936994606
+304,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_14",118.25189107099752
+305,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_15",117.82348731547262
+306,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_16",118.88233659538538
+307,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_17",118.19393233840263
+308,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_18",118.77823023516083
+309,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_19",118.52486311993877
+310,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_20",118.64097047537027
+311,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_21",118.6445280021753
+312,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_22",118.18295679146087
+313,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_23",118.54042493961174
+314,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_24",118.66460598082932
+315,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_25",118.3791287213814
+316,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_26",118.51915547381635
+317,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_27",118.47982083776532
+318,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_28",118.09832774944691
+319,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_29",118.61246589069792
+320,"Gamma(gapi)__fft_coefficient__attr_""imag""__coeff_30",118.49882441008222
+321,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_0",6926.598540925251
+322,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_2",107.08747732150313
+323,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_3",63.03763001726519
+324,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_4",53.527793996249216
+325,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_5",56.3195420044154
+326,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_6",63.11971006750166
+327,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_7",69.21671790054995
+328,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_8",70.17564737968085
+329,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_9",74.77522057582884
+330,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_10",81.70419580849006
+331,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_11",85.9676673154317
+332,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_12",88.73740193870687
+333,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_13",92.09118293799034
+334,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_14",94.56533064674699
+335,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_15",97.58874699175172
+336,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_16",100.51989768559216
+337,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_17",101.77352613197353
+338,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_18",103.00425016427342
+339,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_19",103.97378004132894
+340,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_20",104.53164154494814
+341,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_21",104.66276639150739
+342,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_22",105.03531436383156
+343,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_23",104.80724392453926
+344,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_24",105.37621487809704
+345,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_25",105.34348753959804
+346,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_26",105.29789642356874
+347,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_27",104.9487259020857
+348,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_28",105.07993148406008
+349,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_29",105.30287464992591
+350,"Gamma(gapi)__fft_coefficient__attr_""abs""__coeff_30",105.2338577365068
+351,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_0",118.49882441008222
+352,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_1",126.52805867753236
+353,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_2",120.51767850799388
+354,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_3",119.92491185899055
+355,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_4",126.5931977973082
+356,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_5",124.87263395386434
+357,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_6",115.75382369203643
+358,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_7",112.30763657263762
+359,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_8",129.27407683014542
+360,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_9",118.43574446613178
+361,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_10",131.1205083321579
+362,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_11",112.53075161615213
+363,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_12",99.03698861091382
+364,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_13",116.24898584584052
+365,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_14",99.08994071397072
+366,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_15",101.82407491221875
+367,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_16",104.47586130334972
+368,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_17",107.36774254015619
+369,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_18",96.64830950728377
+370,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_19",88.03932664250655
+371,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_20",71.41819205093803
+372,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_21",83.23484106270989
+373,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_22",75.69382411187418
+374,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_23",85.93049521861565
+375,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_24",93.19129638892899
+376,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_25",83.84710946989715
+377,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_26",91.95267646123276
+378,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_27",109.96009958880107
+379,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_28",119.95002430495505
+380,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_29",126.79544682199698
+381,"Gamma(gapi)__fft_coefficient__attr_""angle""__coeff_30",47.38590841685743
+382,"Gamma(gapi)__fft_aggregated__aggtype_""centroid""",117.33007539686865
+383,"Gamma(gapi)__fft_aggregated__aggtype_""variance""",102.7783533032767
+384,"Gamma(gapi)__fft_aggregated__aggtype_""skew""",113.76678313513169
+385,"Gamma(gapi)__fft_aggregated__aggtype_""kurtosis""",88.49394904924901
+386,Gamma(gapi)__value_count__value_0,118.49882441008222
+387,Gamma(gapi)__value_count__value_1,118.49882441008222
+388,Gamma(gapi)__value_count__value_-1,118.49882441008222
+389,Gamma(gapi)__range_count__max_1__min_-1,118.49882441008222
+390,Gamma(gapi)__range_count__max_0__min_-1000000000000.0,118.49882441008222
+391,Gamma(gapi)__range_count__max_1000000000000.0__min_0,62.19582010801003
+392,Gamma(gapi)__approximate_entropy__m_2__r_0.1,118.25166058500109
+393,Gamma(gapi)__approximate_entropy__m_2__r_0.3,118.06326596641165
+394,Gamma(gapi)__approximate_entropy__m_2__r_0.5,118.1402282631422
+395,Gamma(gapi)__approximate_entropy__m_2__r_0.7,118.22490941508777
+396,Gamma(gapi)__approximate_entropy__m_2__r_0.9,118.28890054958048
+397,Gamma(gapi)__friedrich_coefficients__coeff_0__m_3__r_30,118.49937375828334
+398,Gamma(gapi)__friedrich_coefficients__coeff_1__m_3__r_30,118.32572919112712
+399,Gamma(gapi)__friedrich_coefficients__coeff_2__m_3__r_30,149.31493341689236
+400,Gamma(gapi)__friedrich_coefficients__coeff_3__m_3__r_30,2028.0109738196522
+401,"Gamma(gapi)__linear_trend__attr_""pvalue""",118.45506679303922
+402,"Gamma(gapi)__linear_trend__attr_""rvalue""",118.49643963586807
+403,"Gamma(gapi)__linear_trend__attr_""intercept""",27.751072279563168
+404,"Gamma(gapi)__linear_trend__attr_""slope""",118.52817814708784
+405,"Gamma(gapi)__linear_trend__attr_""stderr""",118.45025591548873
+406,"Gamma(gapi)__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""max""",118.51202761189634
+407,"Gamma(gapi)__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""min""",118.49685205487063
+408,"Gamma(gapi)__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""mean""",118.49430773301636
+409,"Gamma(gapi)__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""var""",118.4764740396773
+410,"Gamma(gapi)__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""max""",118.52007049223086
+411,"Gamma(gapi)__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""min""",118.48368702096157
+412,"Gamma(gapi)__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""mean""",118.49474921901873
+413,"Gamma(gapi)__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""var""",118.50369494541566
+414,"Gamma(gapi)__agg_linear_trend__attr_""rvalue""__chunk_len_50__f_agg_""max""",119.04743720637576
+415,"Gamma(gapi)__agg_linear_trend__attr_""rvalue""__chunk_len_50__f_agg_""min""",118.0730078416379
+416,"Gamma(gapi)__agg_linear_trend__attr_""rvalue""__chunk_len_50__f_agg_""mean""",118.57316737329641
+417,"Gamma(gapi)__agg_linear_trend__attr_""rvalue""__chunk_len_50__f_agg_""var""",119.17823958097314
+418,"Gamma(gapi)__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""max""",27.294095633825
+419,"Gamma(gapi)__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""min""",27.039637682311046
+420,"Gamma(gapi)__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""mean""",26.906399705716158
+421,"Gamma(gapi)__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""var""",109.14385537096223
+422,"Gamma(gapi)__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""max""",26.71143330056251
+423,"Gamma(gapi)__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""min""",26.659485463364053
+424,"Gamma(gapi)__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""mean""",25.839290405185945
+425,"Gamma(gapi)__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""var""",98.81433865437837
+426,"Gamma(gapi)__agg_linear_trend__attr_""intercept""__chunk_len_50__f_agg_""max""",26.88780450979331
+427,"Gamma(gapi)__agg_linear_trend__attr_""intercept""__chunk_len_50__f_agg_""min""",29.823130767037735
+428,"Gamma(gapi)__agg_linear_trend__attr_""intercept""__chunk_len_50__f_agg_""mean""",19.688836992885843
+429,"Gamma(gapi)__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""max""",118.6597630822604
+430,"Gamma(gapi)__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""min""",118.67894206234686
+431,"Gamma(gapi)__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""mean""",118.6597241119
+432,"Gamma(gapi)__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""var""",118.46287550994882
+433,"Gamma(gapi)__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""max""",118.87225071415011
+434,"Gamma(gapi)__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""min""",118.86820743000625
+435,"Gamma(gapi)__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""mean""",118.8557658133361
+436,"Gamma(gapi)__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""var""",118.11308272005762
+437,"Gamma(gapi)__agg_linear_trend__attr_""slope""__chunk_len_50__f_agg_""max""",131.8013907418957
+438,"Gamma(gapi)__agg_linear_trend__attr_""slope""__chunk_len_50__f_agg_""min""",107.1911307206003
+439,"Gamma(gapi)__agg_linear_trend__attr_""slope""__chunk_len_50__f_agg_""mean""",120.91023523614427
+440,"Gamma(gapi)__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""max""",117.96707103827262
+441,"Gamma(gapi)__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""min""",117.9723972566397
+442,"Gamma(gapi)__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""mean""",117.98333301140651
+443,"Gamma(gapi)__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""var""",117.61875009402577
+444,"Gamma(gapi)__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""max""",117.0614641874484
+445,"Gamma(gapi)__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""min""",117.03232026931833
+446,"Gamma(gapi)__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""mean""",117.1183641773142
+447,"Gamma(gapi)__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""var""",114.08099065140611
+448,"Gamma(gapi)__agg_linear_trend__attr_""stderr""__chunk_len_50__f_agg_""max""",118.49882441008222
+449,"Gamma(gapi)__agg_linear_trend__attr_""stderr""__chunk_len_50__f_agg_""min""",118.49882441008222
+450,"Gamma(gapi)__agg_linear_trend__attr_""stderr""__chunk_len_50__f_agg_""mean""",118.49882441008222
+451,"Gamma(gapi)__agg_linear_trend__attr_""stderr""__chunk_len_50__f_agg_""var""",118.49882441008222
+452,"Gamma(gapi)__augmented_dickey_fuller__attr_""teststat""__autolag_""AIC""",120.12133862683271
+453,"Gamma(gapi)__augmented_dickey_fuller__attr_""pvalue""__autolag_""AIC""",118.02737646042604
+454,"Gamma(gapi)__augmented_dickey_fuller__attr_""usedlag""__autolag_""AIC""",112.55460332647468
+455,Gamma(gapi)__number_crossing_m__m_0,118.49882441008222
+456,Gamma(gapi)__number_crossing_m__m_-1,118.49882441008222
+457,Gamma(gapi)__number_crossing_m__m_1,118.49882441008222
+458,Gamma(gapi)__energy_ratio_by_chunks__num_segments_10__segment_focus_0,118.4006820393817
+459,Gamma(gapi)__energy_ratio_by_chunks__num_segments_10__segment_focus_1,118.40141503193288
+460,Gamma(gapi)__energy_ratio_by_chunks__num_segments_10__segment_focus_2,118.40081220836349
+461,Gamma(gapi)__energy_ratio_by_chunks__num_segments_10__segment_focus_3,118.40101499889037
+462,Gamma(gapi)__energy_ratio_by_chunks__num_segments_10__segment_focus_4,118.40085553779318
+463,Gamma(gapi)__energy_ratio_by_chunks__num_segments_10__segment_focus_5,118.40156610013096
+464,Gamma(gapi)__energy_ratio_by_chunks__num_segments_10__segment_focus_6,118.4016426097555
+465,Gamma(gapi)__energy_ratio_by_chunks__num_segments_10__segment_focus_7,118.403795196782
+466,Gamma(gapi)__energy_ratio_by_chunks__num_segments_10__segment_focus_8,118.40464429459846
+467,Gamma(gapi)__energy_ratio_by_chunks__num_segments_10__segment_focus_9,118.40287625653535
+468,Gamma(gapi)__ratio_beyond_r_sigma__r_0.5,117.83941462899183
+469,Gamma(gapi)__ratio_beyond_r_sigma__r_1,118.15075674769973
+470,Gamma(gapi)__ratio_beyond_r_sigma__r_1.5,118.38522442241114
+471,Gamma(gapi)__ratio_beyond_r_sigma__r_2,118.46968101707827
+472,Gamma(gapi)__ratio_beyond_r_sigma__r_2.5,118.49239165808397
+473,Gamma(gapi)__ratio_beyond_r_sigma__r_3,118.49821820921575
+474,Gamma(gapi)__ratio_beyond_r_sigma__r_5,118.49872437098671
+475,Gamma(gapi)__ratio_beyond_r_sigma__r_6,118.49872437098671
+476,Gamma(gapi)__ratio_beyond_r_sigma__r_7,118.49872437098671
+477,Gamma(gapi)__ratio_beyond_r_sigma__r_10,118.49882441008222
+478,Gamma(gapi)__count_above__t_0,117.53046639394019
+479,Gamma(gapi)__count_below__t_0,118.49882441008222
+480,Gamma(gapi)__lempel_ziv_complexity__bins_2,118.24602135529778
+481,Gamma(gapi)__lempel_ziv_complexity__bins_3,118.18954506134102
+482,Gamma(gapi)__lempel_ziv_complexity__bins_5,118.11096990614242
+483,Gamma(gapi)__lempel_ziv_complexity__bins_10,118.00939518654071
+484,Gamma(gapi)__lempel_ziv_complexity__bins_100,117.72108114551126
+485,Gamma(gapi)__fourier_entropy__bins_2,118.28532617245246
+486,Gamma(gapi)__fourier_entropy__bins_3,118.19578820800996
+487,Gamma(gapi)__fourier_entropy__bins_5,118.05921683778124
+488,Gamma(gapi)__fourier_entropy__bins_10,117.87336452362253
+489,Gamma(gapi)__fourier_entropy__bins_100,117.18595644948556
+490,Gamma(gapi)__permutation_entropy__dimension_3__tau_1,117.09158938938154
+491,Gamma(gapi)__permutation_entropy__dimension_4__tau_1,116.3131122476075
+492,Gamma(gapi)__permutation_entropy__dimension_5__tau_1,115.64678205102594
+493,Gamma(gapi)__permutation_entropy__dimension_6__tau_1,115.19605077505605
+494,Gamma(gapi)__permutation_entropy__dimension_7__tau_1,114.96043364495236
+495,Gamma(gapi)__mean_n_absolute_max__number_of_maxima_7,25.652878221355472
